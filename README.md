@@ -17,6 +17,28 @@ O CALMS é um acrônimo para Culture (Cultura), Automation (Automação), LeanIT
 ## Pipeline DevOps
 ![](https://raw.githubusercontent.com/francisco1code/Primeiras_Praticas_de_Devops/master/imagens/devops-pipeline.png)
 
+## Projeto
+
+## ☕ O Projeto
+
+O projeto consiste em uma aplicação simples: 
+**DevOps na Prática - Criando uma Pipeline do Zero.**
+Trata-se de um **Hello World** 
+
+## ☕ Tecnologias
+
+As Tecnologias usadas no projeto são:
+
+- [Node.js](https://nodejs.org/en/)
+- HTML5
+- CSS3
+- JavaScript
+- Mocha
+- Chai
+
+Para executar o projeto localmente, basta rodar o comando **npm install** dentro do diretório para baixar as dependências do projeto. Em seguida digite **node app.js** para rodar o App e **npm test** para executar os testes. Acesse **http://localhost:8888** no seu navegador para ver o resultado.
+
+
 
 
 
