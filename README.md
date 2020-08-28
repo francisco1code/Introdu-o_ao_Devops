@@ -16,3 +16,5 @@ O CALMS é um acrônimo para Culture (Cultura), Automation (Automação), LeanIT
 ![](https://raw.githubusercontent.com/francisco1code/Primeiras_Praticas_de_Devops/master/imagens/devops-pipeline.png)
 
 
+
+
