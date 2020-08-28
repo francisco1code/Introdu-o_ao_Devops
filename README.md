@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/francisco1code/Primeiras_Praticas_de_Devops.svg?branch=master)](https://travis-ci.com/francisco1code/Primeiras_Praticas_de_Devops)
+
 # DevOps
 ![](https://raw.githubusercontent.com/francisco1code/Primeiras_Praticas_de_Devops/master/imagens/images.png)
 ## Pilares do DevOps
