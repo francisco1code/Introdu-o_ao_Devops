@@ -1,12 +1,12 @@
 language: node_js
 node_js:
-  - node
+- node
 sudo: false
 script:
-  - npm test
+- npm test
 deploy:
   provider: heroku
   api_key:
-    secure: $HEROKU_KEY
+    secure: 3sx/pqlV+Hd4k+2zPd1IDb+es1jdC2+R5m2KVmZoegQyKukFQkMgyzYtgCP3uwJ6H7e+C2JVLbAv86NhsW2o74M04X6rhckMcVpTMSmawmzaAoF4I+CQsO31POVzlIwyEy9QUcJpMPJVqhYHJtNIQ4B0nYX+5gIV3NSRRqPgj+G4cN9na6SCNDWkYZAHu5T1ZGaaCPS26yuXoHAzzHzuEYX1c5SOueD9CXR8NbPtsEJAwf9tuAVH56EIZP81PjR6zrB1W7Ok6G3Mdh/ab83BJfuhTJmv7BJqLnSr3hskSCXrZx9BJk1tiDCKsCOunG3+UlOMLOCZMDkT2/xaVtfKp0SdgnA3vooB+UuG8l/dBTstLLypECD8MnuOSQcP0MSttJL758w4usDyxFeVVS6zc2mlp1P0ud7CC6nQmfL75CTQ6HU0kgEY9xVrM+SBWVO+tRSrkFMQZqHHBSnsSJDd+/JiLI33oVwqyERb+DxKW31lLYeIXRyN9jxNJ+XXtMnjg5a5M1mf8Od7Y32bLjj9eVca/CINqmxABrhpavqclJyWnz+sGLIb/u4TFASIErzHRPZrrGj1sVSpy/Mi1aa0bGWhmaGddfLQqS5sbTWuD4EdO59Uga9w7Dg84xe27+tbHHjP9tNTkNJlfMKLGZa8qK1naG7jWy+foKecTBMKfzc=
   app: pipeline-devops-francisco1code
   edge: true
