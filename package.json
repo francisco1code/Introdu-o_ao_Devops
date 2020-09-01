@@ -7,7 +7,7 @@
     "test": "mocha",
     "start": "node app.js"
   },
-  "author": "Matheus Ferraz",
+  "author": "Francisco Emanoel",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
